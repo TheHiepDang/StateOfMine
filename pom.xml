@@ -10,7 +10,7 @@
     <properties>
         <SPRING-VERSION>4.2.5.RELEASE</SPRING-VERSION>
         <THYMELEAF-VERSION>3.0.0.BETA02</THYMELEAF-VERSION>
-    </properties>git s
+    </properties>
 
     <dependencies>
         <dependency>
